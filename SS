@@ -231,18 +231,7 @@ https://load.airtel.tv/ddbangla/smil:common.smil/chunklist_b896000_DVR_sleng.m3u
 http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/801.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="INDIAN BANGLA",Khusboo Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="INDIAN BANGLA MOVIE",Zee Bangla Cinema [IN] (1)
-http://bdiptv.myftp.biz:25461/live/Orangetv/745rony900/10610.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="INDIAN BANGLA MOVIE",Zee Bangla Cinema [IN] (2)
-http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="INDIAN BANGLA MOVIE",Jalsha Movies HD [IN]
-http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11640
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120715.jpg" group-title="INDIAN BANGLA MOVIE",Amar Cinema
-http://anytv.live:8080/live/saiful/saiful/373.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="INDIAN BANGLA MOVIE",Tollywood [IN]
-http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="INDIAN BANGLA MOVIE",Orange Bangla [IN]
-https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="INDIAN BANGLA",R Plus Gold [IN]
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="INDIAN BANGLA",ABP Ananda [IN]
@@ -305,8 +294,10 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="INDIAN HINDI",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="WORLD (Free)",## WORLD ENTERTAINMENT ##
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
+
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="WORLD (Free)",Zee Cafe HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Zee_Caf%C3%A9_2017.svg/revision/latest/scale-to-width-down/340?cb=20200316145807" group-title="WORLD (Free)",Zee Cafe
@@ -391,86 +382,107 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 #EXTINF:-1 tvg-id="RPC.PY" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="WORLD (Free)",Trece
 http://174.138.118.252/live/trece.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="IND. MOVIES (Free)",## INDIAN MOVIES ##
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
-#EXTINF: -1 tvg-logo="https://od.lk/s/NjZfMjkwNjEyOTBf/BP.jpg" group-title="IND. MOVIES (Free)",Shemaroo Premiere HD
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="INDIAN HINDI MOVIES",## INDIAN MOVIES ##
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="INDIAN MOVIES",Zee Bangla Cinema [IN] (1)
+http://bdiptv.myftp.biz:25461/live/Orangetv/745rony900/10610.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="INDIAN MOVIES",Zee Bangla Cinema [IN] (2)
+http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="INDIAN MOVIES",Jalsha Movies HD [IN]
+http://bdiptv.myftp.biz:25461/Orangetv/745rony900/11640
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120715.jpg" group-title="INDIAN MOVIES",Amar Cinema
+http://anytv.live:8080/live/saiful/saiful/373.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="INDIAN MOVIES",Tollywood [IN]
+http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="INDIAN MOVIES",Orange Bangla [IN]
+https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://od.lk/s/NjZfMjkwNjEyOTBf/BP.jpg" group-title="INDIAN MOVIES",Shemaroo Premiere HD
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="IND. MOVIES (Free)",Zee Cinema
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="INDIAN MOVIES",Zee Cinema
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/cinemausa/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="IND. MOVIES (Free)",Zee Cinema UK
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="INDIAN MOVIES",Zee Cinema UK
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/cinemauk/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="IND. MOVIES (Free)",Zee Cinema ME
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="INDIAN MOVIES",Zee Cinema ME
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecinemame/index.m3u8 
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="IND. MOVIES (Free)",Zee Cinema HD (1)
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="INDIAN MOVIES",Zee Cinema HD (1)
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zcinemahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="IND. MOVIES (Free)",Zee Cinema HD (2)
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="INDIAN MOVIES",Zee Cinema HD (2)
 http://89.187.169.205:2200/R-EX/HINDI_ZEE_CINEMA_HD-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="IND. MOVIES (Free)",Zee Bollywood
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="INDIAN MOVIES",Zee Bollywood
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/classic/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="IND. MOVIES (Free)",Zee Action
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="INDIAN MOVIES",Zee Action
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/action/index.m3u8 
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="IND. MOVIES (Free)",Zee Anmol Cinema
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="INDIAN MOVIES",Zee Anmol Cinema
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zanmolcnm/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="IND. MOVIES (Free)",And Picture
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="INDIAN MOVIES",And Picture
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicssd/index.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="IND. MOVIES (Free)",& Picture HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="INDIAN MOVIES",& Picture HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="IND. MOVIES (Free)",& Xplor HD
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="INDIAN MOVIES",& Xplor HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="IND. MOVIES (Free)",Star Gold
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="INDIAN MOVIES",Star Gold
 ##
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="IND. MOVIES (Free)",Star Gold 2
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="INDIAN MOVIES",Star Gold 2
 http://45.249.187.238:8081/hls/tsl-3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="IND. MOVIES (Free)",SONY MAX UK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="INDIAN MOVIES",SONY MAX UK
 http://106.0.54.6:8080/hls/tcm_sonymax_cm_ip.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="IND. MOVIES (Free)",SONY MAX (1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="INDIAN MOVIES",SONY MAX (1)
 http://103.70.140.27:8080/hls/tcm_sonymax_cm_ip.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="IND. MOVIES (Free)",SONY MAX (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="INDIAN MOVIES",SONY MAX (2)
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="IND. MOVIES (Free)",Sony MAX2 (1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="INDIAN MOVIES",Sony MAX2 (1)
 http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6525?token=SRJYAhFRRlgVUlQGA1RWU1JUAVEGA1IECgQBBgBVAwAFBVFWUQ8HAA5BHkYSRhRUUFhmW1UWXgIGAVdIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoEU1EFVlJSHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="IND. MOVIES (Free)",Sony MAX2 (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="INDIAN MOVIES",Sony MAX2 (2)
 https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="IND. MOVIES (Free)",SONY WAH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="INDIAN MOVIES",SONY WAH
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="IND. MOVIES (Free)",WoW CINEMA
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="INDIAN MOVIES",WoW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120809.png" group-title="IND. MOVIES (Free)",Enterr10
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120809.png" group-title="INDIAN MOVIES",Enterr10
 https://load.airtel.tv/enterr10/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="IND. MOVIES (Free)",BOX CINEMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S3lVg3i.jpg?1" group-title="INDIAN MOVIES",BOX CINEMA
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TCRYibC.png" group-title="IND. MOVIES (Free)",ABZY MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TCRYibC.png" group-title="INDIAN MOVIES",ABZY MOVIES
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="IND. MOVIES (Free)",MANORANJAN MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="INDIAN MOVIES",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TkRBcZX.jpg" group-title="IND. MOVIES (Free)",MANORANJAN TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkRBcZX.jpg" group-title="INDIAN MOVIES",MANORANJAN TV
 https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="IND. MOVIES (Free)",MAHA MOVIE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="INDIAN MOVIES",MAHA MOVIE
 https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/HousefullMoviesLogo.jpg" group-title="IND. MOVIES (Free)",Housefull Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/HousefullMoviesLogo.jpg" group-title="INDIAN MOVIES",Housefull Movies
 https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l47sxUe.jpg" group-title="IND. MOVIES (Free)",B4U Movies (1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l47sxUe.jpg" group-title="INDIAN MOVIES",B4U Movies (1)
 http://103.205.133.19/hls/b4umovies.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l47sxUe.jpg" group-title="IND. MOVIES (Free)",B4U Movies (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l47sxUe.jpg" group-title="INDIAN MOVIES",B4U Movies (2)
 http://89.187.169.203:2200/R-EX/HINDI_B4U_MOVIES-in/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="https://b4utv.com/b4uadmin/uploads/news/0_18190800_1531139203.jpg" group-title="IND. MOVIES (Free)",B4U Plus
+#EXTINF:-1 tvg-logo="https://b4utv.com/b4uadmin/uploads/news/0_18190800_1531139203.jpg" group-title="INDIAN MOVIES",B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="IND. MOVIES (Free)",Bflix Movies
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="INDIAN MOVIES",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/navi-mumbai/v1/022pxx22.xx22.130904121133.y3v1/catalogue/cinema-tv-rabale-navi-mumbai-satellite-channels-puloe2a4mr-250.jpg" group-title="IND. MOVIES (Free)",Cinema TV
+#EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/navi-mumbai/v1/022pxx22.xx22.130904121133.y3v1/catalogue/cinema-tv-rabale-navi-mumbai-satellite-channels-puloe2a4mr-250.jpg" group-title="INDIAN MOVIES",Cinema TV
 https://load.airtel.tv/cinematvindia/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/BTV-KADAK.jpg" group-title="IND. MOVIES (Free)",Btv KADAK
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/BTV-KADAK.jpg" group-title="INDIAN MOVIES",Btv KADAK
 https://tempe.jagobd.com:441/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YDTgl6F.jpg" group-title="IND. MOVIES (Free)",Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YDTgl6F.jpg" group-title="INDIAN MOVIES",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/drvLxV3.png" group-title="IND. MOVIES (Free)",Lollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/drvLxV3.png" group-title="INDIAN MOVIES",Lollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eDEt9Ai.png" group-title="IND. MOVIES (Free)",Kollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDEt9Ai.png" group-title="INDIAN MOVIES",Kollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in_480p/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RAkJGW4.jpg" group-title="IND. MOVIES (Free)",Mollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAkJGW4.jpg" group-title="INDIAN MOVIES",Mollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in_480p/index.m3u8?@amarnettv.live
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="WORLD MOVIES (Free)",## WORLD MOVIES ##
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="WORLD MOVIES (Free)",MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="WORLD MOVIES (Free)",MBC MAX FHD

@@ -195,67 +195,67 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 https://mtvbangla-hls.telelivebd.com/mtvbangla/fa96cb6eb78910932cc0b6aee1771fbd.sdp/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uvggul87tnf930n/SJ.jpg" group-title="IND BANGLA",Star Jalsha SD [IN]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uvggul87tnf930n/SJ.jpg" group-title="INDIAN BANGLA",Star Jalsha SD [IN]
 http://103.205.133.50/hls/chsj.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="IND BANGLA.",Star Jalsha HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="INDIAN BANGLA",Star Jalsha HD
 http://95.111.250.189:25461/live/OrangeTV/rony/10598.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="IND BANGLA",Star Jalsha HD [IN] (1)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="INDIAN BANGLA",Star Jalsha HD [IN] (1)
 http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="IND BANGLA",Star Jalsha HD [IN] (2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="INDIAN BANGLA",Star Jalsha HD [IN] (2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="IND BANGLA.",Star Jalsha HD [IN] (3)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="INDIAN BANGLA",Star Jalsha HD [IN] (3)
 http://95.111.250.189:25461/live/OrangeTV/rony/10598.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="IND BANGLA",Zee Bangla SD [IN] (2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="INDIAN BANGLA",Zee Bangla SD [IN] (2)
 http://103.205.133.50/hls/zeebangla.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="IND BANGLA",Zee Bangla HD [IN] (1)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD [IN] (1)
 http://95.111.250.189:25461/live/OrangeTV/rony/10600.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="IND BANGLA",Zee Bangla HD [IN] (2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD [IN] (2)
 http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="IND BANGLA",Zee Bangla HD [IN] (3)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="INDIAN BANGLA",Zee Bangla HD [IN] (3)
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="IND BANGLA",Colors Bangla SD [IN] (1)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="INDIAN BANGLA",Colors Bangla SD [IN] (1)
 http://103.205.133.50/hls/etvbangla.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="IND BANGLA",Colors Bangla SD [IN] (2)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="INDIAN BANGLA",Colors Bangla SD [IN] (2)
 http://95.111.250.189:25461/live/OrangeTV/rony/10602.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="IND BANGLA",Sony Aath [IN] (1)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="INDIAN BANGLA",Sony Aath [IN] (1)
 http://bdvisioniptv.ddns.net:25461/live/pZ1IssLfb0/Flr87RhZZq/191.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="IND BANGLA",Sony Aath [IN] (2)
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="INDIAN BANGLA",Sony Aath [IN] (2)
 http://103.205.133.50/hls/sony8.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wvu90zc7xqctblh/entb.jpg"group-title="IND BANGLA",Enter 10 Bangla [IN]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wvu90zc7xqctblh/entb.jpg"group-title="INDIAN BANGLA",Enter 10 Bangla [IN]
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="IND BANGLA",Akash Aath [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="INDIAN BANGLA",Akash Aath [IN]
 http://95.111.250.189:25461/live/OrangeTV/rony/10605.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="IND BANGLA",DD Bangla [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="INDIAN BANGLA",DD Bangla [IN]
 https://load.airtel.tv/ddbangla/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="IND BANGLA",Ruposhi Bangla [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="INDIAN BANGLA",Ruposhi Bangla [IN]
 http://bdvisioniptv.ddns.net:25461/live/sajeeb33/P288/801.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="IND BANGLA",Khusboo Bangla [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="INDIAN BANGLA",Khusboo Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="IND BANGLA MOVIE",Zee Bangla Cinema [IN] (1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="INDIAN BANGLA MOVIE",Zee Bangla Cinema [IN] (1)
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="IND BANGLA MOVIE",Zee Bangla Cinema [IN] (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="INDIAN BANGLA MOVIE",Zee Bangla Cinema [IN] (2)
 http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="IND BANGLA MOVIE",Jalsha Movies [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="INDIAN BANGLA MOVIE",Jalsha Movies [IN]
 http://103.115.159.38:8080/live/saiful/saiful/283.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120715.jpg" group-title="IND BANGLA MOVIE",Amar Cinema
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120715.jpg" group-title="INDIAN BANGLA MOVIE",Amar Cinema
 http://anytv.live:8080/live/saiful/saiful/373.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="IND BANGLA MOVIE",Tollywood [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="INDIAN BANGLA MOVIE",Tollywood [IN]
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="IND BANGLA MOVIE",Orange Bangla [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="INDIAN BANGLA MOVIE",Orange Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="IND BANGLA",R Plus Gold [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="INDIAN BANGLA",R Plus Gold [IN]
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="IND BANGLA",ABP Ananda [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="INDIAN BANGLA",ABP Ananda [IN]
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="IND BANGLA",Calcutta News [IN]
+#EXTINF:-1 tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="INDIAN BANGLA",Calcutta News [IN]
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/cnews.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bk055soezukgi45/71120680.png" group-title="IND BANGLA",Ekhon Kolkata [IN]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bk055soezukgi45/71120680.png" group-title="INDIAN BANGLA",Ekhon Kolkata [IN]
 http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
-#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/Kolkata_TV.svg/revision/latest/top-crop/width/220/height/220?cb=20200609063455" group-title="IND BANGLA",Kolkata TV
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/Kolkata_TV.svg/revision/latest/top-crop/width/220/height/220?cb=20200609063455" group-title="INDIAN BANGLA",Kolkata TV
 https://load.airtel.tv/kolkatatv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uPgH7dT.png" group-title="IND BANGLA",Bangla Time [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPgH7dT.png" group-title="INDIAN BANGLA",Bangla Time [IN]
 https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png" group-title="IND BANGLA",News Time Bangla [IN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png" group-title="INDIAN BANGLA",News Time Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8
 
 

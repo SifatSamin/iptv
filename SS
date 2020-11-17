@@ -214,9 +214,10 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="INDIAN BANGLA",Star Jalsha HD [IN] (2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="INDIAN BANGLA",Star Jalsha HD [IN] (3)
-
+PWdUZHowbUxxTkhhajl5Y3NoMkw1RWpMek1UTXVVRE15NHlNd0V6THZvRGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="INDIAN BANGLA",Star Jalsha HD [IN] (4)
+PWdUZHowbUx6dG1iMWgyWXZRR2FmRkdhenhXWXE5bGNoUjNjdlVtZHB4MkwwVm1idTgyYmtGbWFwZFdhazVpZDBCWGF1RURNbGRHWmw5eUw2TUhjMFJIYQ==
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="INDIAN BANGLA",Zee Bangla SD [IN] (2)
 http://103.205.133.50/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD [IN] (1)
@@ -227,14 +228,28 @@ http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="INDIAN BANGLA",Zee Bangla HD [IN] (4)
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/26.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="INDIAN BANGLA",Zee Bangla (5)
+a0JYYnVRM2NsWldhdUZXYnZRSGIxRm1abFIyTDFnVE13RXpMMlJYTHJCbll2WXpNdVlqTnVFRE54NHlNd0V6THZvRGMwUkhh
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="INDIAN BANGLA",Zee Bangla (6)
+PT1BTzFOVGJ1RUdibjVXWWlWV1o2OXljc2gyTDBFakx6TVRNdVVETXk0eU13RXpMdm9EYzBSSGE=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNmrjzmGv9EBPL7HsitSh1jGqhvESwzkN7KXXrnTessEC0h6ua&usqp=CAU" group-title="INDIAN BANGLA",Zee Bangla HD (7)
+PT1BTzFOVGJ1Z1haazVXYXZBak0zOEZabzlWWXNkbWJoSjJYbFZtZXZ3V1lqOUdidlV6TTVFak95UWpMek1UTXVVRE15NHlNd0V6THZvRGMwUkhh
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="INDIAN BANGLA",Colors Bangla SD [IN] (1)
 http://103.205.133.50/hls/etvbangla.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="INDIAN BANGLA",Colors Bangla SD [IN] (2)
 http://95.111.250.189:25461/live/OrangeTV/rony/10602.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="INDIAN BANGLA",Colors Bangla SD [IN] (3)
+PT1BTzFOVGJ1TTNhdVZIYWo5U1lzZG1iaEoyWHpKM2JzOTJZdlVtZHB4MkwwVm1idTgyYmtGbWFwZFdhazVpZDBCWGF1RURNbGRHWmw5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="INDIAN BANGLA",Colors Bangla HD [IN] (4)
+PT1BTzFOVGJ1TTNhdVZIYWo5Q1pvOVZZc2RtYmhKMlh6SjNiczkyWXZVbWRweDJMMFZtYnU4MmJrRm1hcGRXYWs1aWQwQlhhdUVETWxkR1psOXlMNk1IYzBSSGE=
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="INDIAN BANGLA",Sony Aath [IN] (1)
-http://bdvisioniptv.ddns.net:25461/live/pZ1IssLfb0/Flr87RhZZq/191.m3u8
+NFUzTXQ1Q081NTJiejl5Y3NoMkwwRWpMek1UTXVVRE15NHlNd0V6THZvRGMwUkhh
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="INDIAN BANGLA",Sony Aath [IN] (2)
 http://103.205.133.50/hls/sony8.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="INDIAN BANGLA",Sony Aath [IN] (3)
+NFUzTXQ1Q081NTJiejl5Y3NoMkw1RWpMek1UTXVVRE15NHlNd0V6THZvRGMwUkhh
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wvu90zc7xqctblh/entb.jpg"group-title="INDIAN BANGLA",Enter 10 Bangla [IN]
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="INDIAN BANGLA",Akash Aath [IN]
@@ -694,13 +709,13 @@ http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="KIDS",DURONTO TV HD
-http://45.249.187.238:8081/hls/new3.m3u8
+http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="KIDS",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
-http://45.249.187.238:8081/hls/new14.m3u8
+http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="KIDS",DISNEY
 http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CanalDisneyJuniorLA.png" group-title="KIDS",DISNEY Jr.
@@ -710,11 +725,18 @@ https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="KIDS",POGO
 http://45.249.187.238:8081/hls/new18.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="KIDS",Nick Sonic Bangla
-http://anytv.live:8080/saiful/saiful/383
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK
-http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6519?token=SRJYAhFRRlgVUwtQAgpXUgMCDFFXUAVSBQJSUFQGBVUBBlZbAAwCUgRBHkYSRhRUUFhmW1UWXgIGAFtIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoFW1wEV1JTHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="KIDS",Sony YAY
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2TVdhdTkyY3ZVbWRweDJMMFZtYnU4MmJrRm1hcGRXYWs1aWQwQlhhdUVETWxkR1psOXlMNk1IYzBSSGE=
 
+http://anytv.live:8080/saiful/saiful/383
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2NDJibFIyYnNWMmFqbG1idlVtZHB4MkwwVm1idTgyYmtGbWFwZFdhazVpZDBCWGF1RURNbGRHWmw5eUw2TUhjMFJIYQ==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="KIDS",NICK (1)
+PWdUZHowbUx6dG1iMWgyWXZRR2FmdDJZcDUyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="KIDS",Nick Jr
+PWdUZHowbUx6dG1iMWgyWXZJbmFmdDJZcDUyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="KIDS",Sony YAY
+PWdUZHowbUw0VkdadWwyTHdJek5mbFhZNTlWZXU5MmN2d1dZajlHYnZVek01RWpPeVFqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235" group-title="KIDS",Hungama Kids
 http://anytv.live:8080/live/saiful/saiful/372.m3u8
 #EXTINF:-1 tvg-id="0-9-290" tvg-logo="https://akamaividz.zee5.com/resources/0-9-290/list/386x386/1170x658_zee5kid_983708240.png" group-title="KIDS",ZEE5 Kids
@@ -736,6 +758,8 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="KIDS",SPACETOON KIDS
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
+
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w168363901.m3u8
 
 
 
@@ -830,6 +854,11 @@ https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png" group-title="SPORTS",FOX SPORT 3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS", SPORT MAX
+PT1BTzFOVGJ1RURNdllqTjNZak15RWpNeU16TDBJak12Z0RPNGdETzRnRE92WUZWTUIxTDE0eU4xRWpMdzRTTTJFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 group-title="SPORTS", SKY SPORTS
+PWdUZHowbUxraDJjMEozYndObmQwQjNMd0JYWXYwMmJqNUNlcHhtWnpSbmN2QjNjbGhHZHVJamJrTjJMdm9EYzBSSGE=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="SPORTS",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="SPORTS",Red Bull TV

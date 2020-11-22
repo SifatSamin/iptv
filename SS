@@ -253,8 +253,10 @@ http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="INDIAN BANGLA",Zee Bangla SD [IN]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="INDIAN BANGLA",Zee Bangla SD [IN] (1)
 http://103.205.133.50/hls/zeebangla.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="INDIAN BANGLA",Zee Bangla SD [IN] (2)
+http://163.172.29.246:8081/globalbd/zeebangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD [IN] (1)
 http://172.20.1.1:8081/live/zeebanglahd-25/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD [IN] (2)
@@ -264,9 +266,8 @@ http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/26.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="INDIAN BANGLA",Colors Bangla SD [IN] (1)
 http://103.205.133.50/hls/etvbangla.m3u8
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="INDIAN BANGLA",Colors Bangla SD [IN] (2)
-http://95.111.250.189:25461/live/OrangeTV/rony/10602.m3u8
+http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
 
 
 
